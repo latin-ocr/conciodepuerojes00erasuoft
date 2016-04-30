@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./conciodepuerojes00erasuoft_0053.png"; bbox 0 0 1989 3288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 1120 1186 1908">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 1120 1186 1908">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 1120 1186 1908; baseline 0 1380"><span class='ocrx_word' id='word_1_1' title='bbox 400 1120 1186 1908; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 115 2103 1472 2327">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 115 2103 1472 2327">
+     <span class='ocr_line' id='line_1_2' title="bbox 115 2103 1472 2148; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 115 2108 782 2148; x_wconf 86' lang='lat' dir='ltr'><strong>EXCVDEBAT·IOANNES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 798 2123 810 2136; x_wconf 78' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 827 2104 1084 2142; x_wconf 87' lang='lat' dir='ltr'>NICHOLS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1101 2120 1112 2133; x_wconf 90' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1128 2103 1472 2139; x_wconf 83' lang='lat' dir='ltr'>CVM-SOCIIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 221 2197 1372 2238; baseline -0.008 1"><span class='ocrx_word' id='word_1_7' title='bbox 221 2204 369 2238; x_wconf 78' lang='lat' dir='ltr'>OLIM</span> <span class='ocrx_word' id='word_1_8' title='bbox 389 2217 403 2230; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 424 2200 692 2236; x_wconf 82' lang='lat' dir='ltr'>SCHOLAE</span> <span class='ocrx_word' id='word_1_10' title='bbox 713 2213 725 2226; x_wconf 90' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 746 2199 1050 2234; x_wconf 87' lang='lat' dir='ltr'>PAVLINAE</span> <span class='ocrx_word' id='word_1_12' title='bbox 1071 2215 1084 2230; x_wconf 73' lang='grc' dir='ltr'><strong>ο</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1106 2197 1372 2233; x_wconf 88' lang='lat' dir='ltr'><strong>ALVMNIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 342 2289 1261 2327; baseline -0.007 0"><span class='ocrx_word' id='word_1_14' title='bbox 342 2291 599 2327; x_wconf 88' lang='lat' dir='ltr'>LONDINI</span> <span class='ocrx_word' id='word_1_15' title='bbox 621 2305 633 2317; x_wconf 91' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 658 2291 767 2326; x_wconf 83' lang='lat' dir='ltr'><strong>A·D</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 789 2305 801 2319; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 823 2289 1261 2326; x_wconf 83' lang='lat' dir='ltr'><strong>M·Dccc·x·vl.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
